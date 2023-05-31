@@ -12,8 +12,8 @@ const Home = (props) => {
         <meta property="og:title" content="Third Imperfect Wasp" />
       </Helmet>
       <img
-        src="/4k-gaming-wallpaper-images-8-200h.jpg"
         alt="image"
+        src="/4k-gaming-wallpaper-images-8-200h.jpg"
         className="home-image"
       />
     </div>
